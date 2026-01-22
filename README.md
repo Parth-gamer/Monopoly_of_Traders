@@ -15,7 +15,7 @@ Winning Condition: The winner is the player with the highest coin count after th
 📦 Tradable Resources
 Players can buy and sell the following materials:
 
-🪵 wood
+🌳 wood
 
 ⚙️ iron
 
